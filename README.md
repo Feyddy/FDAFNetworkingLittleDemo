@@ -1,0 +1,2 @@
+# FDAFNetworkingLittleDemo
+利用AFNetworking上传文件，afn的序列化和ContentType的设置，实现网络监听（原生和afn），MD5加密
